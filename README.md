@@ -1,35 +1,29 @@
-# Olá, eu sou a Samira Dalosto! 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, eu sou a Samira Dalosto! 
 
-Engenheira / Desenvolvedora de Software
-
----
-
-### 🚀 Sobre mim
-- 🔭 Atualmente focada em: **Desenvolvimento de Software**
-- 🌱 Estudando e aprimorando: **JavaScript, React e Node.js**
-- 💬 Pergunte-me sobre: **Tecnologia, desenvolvimento web e novos projetos**
-- 📫 Como me encontrar: **samiradalosto@gmail.com**
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 Minhas Estatísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samiradalosto&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiradalosto&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150"/>
+<p align="left">
+  <a href="https://linkedin.com/in/samiradalosto" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/sami_dlts" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:samiradalosto@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
+> **Desenvolvedora de Software | Apaixonada por tecnologia, inovação e resolução de problemas.**
+
 ---
 
-### 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiradalosto)
+### 🚀 Sobre Mim
+
+- 🔭 **Atualmente focada em:** Desenvolvimento de Software e criação de aplicações web modernas.
+- 🌱 **Aprimorando conhecimentos em:** JavaScript, TypeScript, React e Node.js.
+- 💡 **Interesses:** Arquitetura de software, boas práticas de código (Clean Code) e experiência do usuário (UX/UI).
+- 💬 **Fale comigo sobre:** Desenvolvimento web, tecnologia ou parcerias em novos projetos!
+- 📫 **E-mail de contato:** [samiradalosto@gmail.com](mailto:samiradalosto@gmail.com)
+
+---
+
+###
