@@ -6,7 +6,9 @@
 
 ### 🚀 Sobre Mim
 - 🔭 **Atualmente focada em:** Desenvolvimento de Software e criação de aplicações web modernas.
-- 🌱 **Estudando e aprimorando:** JavaScript, TypeScript, React e Node.js.
+- 🌱 **Estudando e aprimorando:** JavaScript,Linguagens de Marcação e Estilização: HTML5, CSS3, Backend: Node.js, Express.js
+
+Banco de Dados: MySQL
 - 💡 **Interesses:** Arquitetura de software, boas práticas de código (Clean Code) e experiência do usuário (UX/UI).
 - 💬 **Pergunte-me sobre:** Tecnologia, desenvolvimento web e novos projetos.
 - 📫 **Como me encontrar:** [samiradalosto@gmail.com](mailto:samiradalosto@gmail.com)
@@ -26,22 +28,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 
-### 📊 Minhas Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samiradalosto&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiradalosto&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150"/>
-</p>
-
----
 
 ### 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiradalosto)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sami_dlts)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiradalosto@gmail.com)
+
 
 ---
 
