@@ -8,7 +8,6 @@
 - 🔭 **Atualmente focada em:** Desenvolvimento de Software e criação de aplicações web modernas.
 - 🌱 **Estudando e aprimorando:** JavaScript,Linguagens de Marcação e Estilização: HTML5, CSS3, Backend: Node.js, Express.js
 - 💡 **Interesses:** Arquitetura de software, boas práticas de código (Clean Code) e experiência do usuário (UX/UI).
-- 🔭 **Atualmente focada em:** Desenvolvimento de Software
 - 🌱 **Estudando e aprimorando:** JavaScript, TypeScript, React e Node.js
 - 🎨 **Design & CSS:** Adoro criar interfaces elegantes, trabalhar com estilização e cuidar dos detalhes visuais das aplicações.
 - 🏋🏃‍♀️‍➡️**Musculação:** Pratico musculação no meu dia a dia.
